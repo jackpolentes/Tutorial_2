@@ -17,3 +17,4 @@ while guess != secret_word and not out_of_guesses:
 if out_of_guesses:
     print("You Lose!")
 print("Correct!")
+print("...and that's the way the cookie crumbles")
